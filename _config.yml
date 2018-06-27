@@ -1,4 +1,4 @@
-title: 干物 檬的Blog
+title: 干物檬的Blog
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 干物 檬
+author: 干物檬
 author-img: logo.png
 about-author: emmmm测试一下
 social-twitter: # add your Twitter handle
