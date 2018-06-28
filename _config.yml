@@ -1,4 +1,4 @@
-﻿title: "干物檬的Blog"
+﻿title: "干物 檬的小博客~"
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,12 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: "干物 檬"
 author-img: logo.png
-about-author: "emmmm欢迎来到干物 の 空~间~ˋ( ° ▽、° ) "
+about-author: "emmmm\n欢迎来到干物 の 空~间~ˋ( ° ▽、° ) "
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: ganwum # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: ganwumeng@outlook.com# add your Email address
+social-email: ganwumeng@outlook.com
 
 # Disqus
 discus-identifier: 干物檬 # add your discus identifier
