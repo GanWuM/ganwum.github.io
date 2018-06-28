@@ -5,21 +5,21 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/ganwum.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://ganwum.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: "干物檬"
+author: "干物 檬"
 author-img: logo.png
-about-author: "emmmm测试一下"
+about-author: "emmmm欢迎来到干物 の 空~间~ˋ( ° ▽、° ) "
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: ganwum # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: ganwumeng@outlook.com# add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: 干物檬 # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
