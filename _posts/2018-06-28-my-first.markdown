@@ -1,14 +1,25 @@
 ---
 layout: post
-title: 这个博客的小介绍
+title: Doing++的一些问题
 date: 2018-08-26 17:40:32 +0800
-description: emmmmmm最好第一次先看看
+description: ~~~
 img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [简介]
+tags: [Doing++]
 ---
-首先，欢迎来到这个博客的你轻轻敲击了鼠标看到了我这一段文字。
-这说明你有一颗爱好探索的心！！！
 
-这个博客是专用于承载我的所有项目的网址，就酱。
-祝你玩得开心o(*￣▽￣*)ブ
+##联系作者：
+QQ群:977383461
+E-Mail:ganwumeng@outlook.com
+酷安:干物檬
+
+##疑惑解答
+###超级专注模式
+####怎么一有通知来，专注就判定为失败了？
+这种情况取决于不同的ROM，如MIUI的悬浮通知就无解，可以试试打开通知屏蔽，从而变相达到效果
+
+####当我打开其他软件后，并没有直接跳回Doing++？
+这种情况取决于不同的ROM，
+*MIUI等大部分国产UI:应用设置-权限管理-后台弹出界面-允许 <没办法，MIUI进行了限制>
+*安卓原生/类原生 Android9.0及以下版本：应该没问题的嗯
+*安卓原生/类原生 Android10.0及以上版本：Doing++-我-权限中心-无障碍服务-找到Doing++并开启 <这是谷歌在Android Q中新加的限制>
