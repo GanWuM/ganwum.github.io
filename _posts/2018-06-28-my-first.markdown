@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doing++的一些问题
-date: 2018-08-26 17:40:32 +0800
+date: ~~~~~
 description: ~~~
 img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
@@ -12,6 +12,9 @@ tags: [Doing++]
 * QQ群:977383461
 * E-Mail:ganwumeng@outlook.com
 * 酷安:干物檬
+### 捐赠
+* 微信：
+
 
 ## 疑惑解答
 ### 超级专注模式
