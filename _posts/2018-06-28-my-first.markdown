@@ -1,13 +1,3 @@
----
-layout: post
-title: Doing++的一些问题
-date: ~~~~~
-description: ~~~
-img:  # Add image post (optional)
-fig-caption: # Add figcaption (optional)
-tags: [Doing++]
----
-
 ## 联系作者：
 * QQ群:977383461
 * E-Mail:ganwumeng@outlook.com
